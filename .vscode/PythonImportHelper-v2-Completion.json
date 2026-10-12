@@ -1,0 +1,1705 @@
+[
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "pformat",
+        "importPath": "pprint",
+        "description": "pprint",
+        "isExtraImport": true,
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "jmespath",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "exceptions",
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "isExtraImport": true,
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "load_cached",
+        "importPath": "qa_tutor.cache",
+        "description": "qa_tutor.cache",
+        "isExtraImport": true,
+        "detail": "qa_tutor.cache",
+        "documentation": {}
+    },
+    {
+        "label": "save_cached",
+        "importPath": "qa_tutor.cache",
+        "description": "qa_tutor.cache",
+        "isExtraImport": true,
+        "detail": "qa_tutor.cache",
+        "documentation": {}
+    },
+    {
+        "label": "load_cached",
+        "importPath": "qa_tutor.cache",
+        "description": "qa_tutor.cache",
+        "isExtraImport": true,
+        "detail": "qa_tutor.cache",
+        "documentation": {}
+    },
+    {
+        "label": "save_cached",
+        "importPath": "qa_tutor.cache",
+        "description": "qa_tutor.cache",
+        "isExtraImport": true,
+        "detail": "qa_tutor.cache",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "qa_tutor.config",
+        "description": "qa_tutor.config",
+        "isExtraImport": true,
+        "detail": "qa_tutor.config",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "qa_tutor.config",
+        "description": "qa_tutor.config",
+        "isExtraImport": true,
+        "detail": "qa_tutor.config",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "qa_tutor.config",
+        "description": "qa_tutor.config",
+        "isExtraImport": true,
+        "detail": "qa_tutor.config",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "qa_tutor.config",
+        "description": "qa_tutor.config",
+        "isExtraImport": true,
+        "detail": "qa_tutor.config",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "qa_tutor.config",
+        "description": "qa_tutor.config",
+        "isExtraImport": true,
+        "detail": "qa_tutor.config",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "qa_tutor.config",
+        "description": "qa_tutor.config",
+        "isExtraImport": true,
+        "detail": "qa_tutor.config",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "qa_tutor.config",
+        "description": "qa_tutor.config",
+        "isExtraImport": true,
+        "detail": "qa_tutor.config",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_MODEL",
+        "importPath": "qa_tutor.config",
+        "description": "qa_tutor.config",
+        "isExtraImport": true,
+        "detail": "qa_tutor.config",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "qa_tutor.config",
+        "description": "qa_tutor.config",
+        "isExtraImport": true,
+        "detail": "qa_tutor.config",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "qa_tutor.config",
+        "description": "qa_tutor.config",
+        "isExtraImport": true,
+        "detail": "qa_tutor.config",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "qa_tutor.config",
+        "description": "qa_tutor.config",
+        "isExtraImport": true,
+        "detail": "qa_tutor.config",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "qa_tutor.config",
+        "description": "qa_tutor.config",
+        "isExtraImport": true,
+        "detail": "qa_tutor.config",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "qa_tutor.config",
+        "description": "qa_tutor.config",
+        "isExtraImport": true,
+        "detail": "qa_tutor.config",
+        "documentation": {}
+    },
+    {
+        "label": "run_structured",
+        "importPath": "qa_tutor.llm.structured",
+        "description": "qa_tutor.llm.structured",
+        "isExtraImport": true,
+        "detail": "qa_tutor.llm.structured",
+        "documentation": {}
+    },
+    {
+        "label": "run_structured",
+        "importPath": "qa_tutor.llm.structured",
+        "description": "qa_tutor.llm.structured",
+        "isExtraImport": true,
+        "detail": "qa_tutor.llm.structured",
+        "documentation": {}
+    },
+    {
+        "label": "text_chain",
+        "importPath": "qa_tutor.llm.structured",
+        "description": "qa_tutor.llm.structured",
+        "isExtraImport": true,
+        "detail": "qa_tutor.llm.structured",
+        "documentation": {}
+    },
+    {
+        "label": "ANALYSIS_PROMPT",
+        "importPath": "qa_tutor.prompts.analysis",
+        "description": "qa_tutor.prompts.analysis",
+        "isExtraImport": true,
+        "detail": "qa_tutor.prompts.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "DocumentAnalysis",
+        "importPath": "qa_tutor.schemas",
+        "description": "qa_tutor.schemas",
+        "isExtraImport": true,
+        "detail": "qa_tutor.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "SMEBrief",
+        "importPath": "qa_tutor.schemas",
+        "description": "qa_tutor.schemas",
+        "isExtraImport": true,
+        "detail": "qa_tutor.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "DocumentAnalysis",
+        "importPath": "qa_tutor.schemas",
+        "description": "qa_tutor.schemas",
+        "isExtraImport": true,
+        "detail": "qa_tutor.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "LessonStep",
+        "importPath": "qa_tutor.schemas",
+        "description": "qa_tutor.schemas",
+        "isExtraImport": true,
+        "detail": "qa_tutor.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "SMEBrief",
+        "importPath": "qa_tutor.schemas",
+        "description": "qa_tutor.schemas",
+        "isExtraImport": true,
+        "detail": "qa_tutor.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "load_sources",
+        "importPath": "qa_tutor.ingestion.loader",
+        "description": "qa_tutor.ingestion.loader",
+        "isExtraImport": true,
+        "detail": "qa_tutor.ingestion.loader",
+        "documentation": {}
+    },
+    {
+        "label": "sources_key",
+        "importPath": "qa_tutor.ingestion.loader",
+        "description": "qa_tutor.ingestion.loader",
+        "isExtraImport": true,
+        "detail": "qa_tutor.ingestion.loader",
+        "documentation": {}
+    },
+    {
+        "label": "load_sources",
+        "importPath": "qa_tutor.ingestion.loader",
+        "description": "qa_tutor.ingestion.loader",
+        "isExtraImport": true,
+        "detail": "qa_tutor.ingestion.loader",
+        "documentation": {}
+    },
+    {
+        "label": "save_upload",
+        "importPath": "qa_tutor.ingestion.loader",
+        "description": "qa_tutor.ingestion.loader",
+        "isExtraImport": true,
+        "detail": "qa_tutor.ingestion.loader",
+        "documentation": {}
+    },
+    {
+        "label": "sources_key",
+        "importPath": "qa_tutor.ingestion.loader",
+        "description": "qa_tutor.ingestion.loader",
+        "isExtraImport": true,
+        "detail": "qa_tutor.ingestion.loader",
+        "documentation": {}
+    },
+    {
+        "label": "clean_source",
+        "importPath": "qa_tutor.ingestion.loader",
+        "description": "qa_tutor.ingestion.loader",
+        "isExtraImport": true,
+        "detail": "qa_tutor.ingestion.loader",
+        "documentation": {}
+    },
+    {
+        "label": "display_name",
+        "importPath": "qa_tutor.ingestion.loader",
+        "description": "qa_tutor.ingestion.loader",
+        "isExtraImport": true,
+        "detail": "qa_tutor.ingestion.loader",
+        "documentation": {}
+    },
+    {
+        "label": "save_upload",
+        "importPath": "qa_tutor.ingestion.loader",
+        "description": "qa_tutor.ingestion.loader",
+        "isExtraImport": true,
+        "detail": "qa_tutor.ingestion.loader",
+        "documentation": {}
+    },
+    {
+        "label": "SME_PROMPT",
+        "importPath": "qa_tutor.prompts.sme",
+        "description": "qa_tutor.prompts.sme",
+        "isExtraImport": true,
+        "detail": "qa_tutor.prompts.sme",
+        "documentation": {}
+    },
+    {
+        "label": "AIMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "HumanMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "AnyMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "AIMessage",
+        "importPath": "langchain_core.messages",
+        "description": "langchain_core.messages",
+        "isExtraImport": true,
+        "detail": "langchain_core.messages",
+        "documentation": {}
+    },
+    {
+        "label": "ASK_PROMPT",
+        "importPath": "qa_tutor.prompts.tutor",
+        "description": "qa_tutor.prompts.tutor",
+        "isExtraImport": true,
+        "detail": "qa_tutor.prompts.tutor",
+        "documentation": {}
+    },
+    {
+        "label": "WALKTHROUGH_PROMPT",
+        "importPath": "qa_tutor.prompts.tutor",
+        "description": "qa_tutor.prompts.tutor",
+        "isExtraImport": true,
+        "detail": "qa_tutor.prompts.tutor",
+        "documentation": {}
+    },
+    {
+        "label": "MemorySaver",
+        "importPath": "langgraph.checkpoint.memory",
+        "description": "langgraph.checkpoint.memory",
+        "isExtraImport": true,
+        "detail": "langgraph.checkpoint.memory",
+        "documentation": {}
+    },
+    {
+        "label": "END",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "START",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "StateGraph",
+        "importPath": "langgraph.graph",
+        "description": "langgraph.graph",
+        "isExtraImport": true,
+        "detail": "langgraph.graph",
+        "documentation": {}
+    },
+    {
+        "label": "make_analyze_node",
+        "importPath": "qa_tutor.graph.nodes.analyze",
+        "description": "qa_tutor.graph.nodes.analyze",
+        "isExtraImport": true,
+        "detail": "qa_tutor.graph.nodes.analyze",
+        "documentation": {}
+    },
+    {
+        "label": "make_load_document_node",
+        "importPath": "qa_tutor.graph.nodes.load_document",
+        "description": "qa_tutor.graph.nodes.load_document",
+        "isExtraImport": true,
+        "detail": "qa_tutor.graph.nodes.load_document",
+        "documentation": {}
+    },
+    {
+        "label": "make_sme_node",
+        "importPath": "qa_tutor.graph.nodes.sme",
+        "description": "qa_tutor.graph.nodes.sme",
+        "isExtraImport": true,
+        "detail": "qa_tutor.graph.nodes.sme",
+        "documentation": {}
+    },
+    {
+        "label": "make_tutor_node",
+        "importPath": "qa_tutor.graph.nodes.tutor",
+        "description": "qa_tutor.graph.nodes.tutor",
+        "isExtraImport": true,
+        "detail": "qa_tutor.graph.nodes.tutor",
+        "documentation": {}
+    },
+    {
+        "label": "TutorState",
+        "importPath": "qa_tutor.graph.state",
+        "description": "qa_tutor.graph.state",
+        "isExtraImport": true,
+        "detail": "qa_tutor.graph.state",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypedDict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypeVar",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Type",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "add_messages",
+        "importPath": "langgraph.graph.message",
+        "description": "langgraph.graph.message",
+        "isExtraImport": true,
+        "detail": "langgraph.graph.message",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_url",
+        "importPath": "qa_tutor.ingestion.readers",
+        "description": "qa_tutor.ingestion.readers",
+        "isExtraImport": true,
+        "detail": "qa_tutor.ingestion.readers",
+        "documentation": {}
+    },
+    {
+        "label": "is_complete_pdf",
+        "importPath": "qa_tutor.ingestion.readers",
+        "description": "qa_tutor.ingestion.readers",
+        "isExtraImport": true,
+        "detail": "qa_tutor.ingestion.readers",
+        "documentation": {}
+    },
+    {
+        "label": "is_pdf",
+        "importPath": "qa_tutor.ingestion.readers",
+        "description": "qa_tutor.ingestion.readers",
+        "isExtraImport": true,
+        "detail": "qa_tutor.ingestion.readers",
+        "documentation": {}
+    },
+    {
+        "label": "is_url",
+        "importPath": "qa_tutor.ingestion.readers",
+        "description": "qa_tutor.ingestion.readers",
+        "isExtraImport": true,
+        "detail": "qa_tutor.ingestion.readers",
+        "documentation": {}
+    },
+    {
+        "label": "read_html",
+        "importPath": "qa_tutor.ingestion.readers",
+        "description": "qa_tutor.ingestion.readers",
+        "isExtraImport": true,
+        "detail": "qa_tutor.ingestion.readers",
+        "documentation": {}
+    },
+    {
+        "label": "read_pdf",
+        "importPath": "qa_tutor.ingestion.readers",
+        "description": "qa_tutor.ingestion.readers",
+        "isExtraImport": true,
+        "detail": "qa_tutor.ingestion.readers",
+        "documentation": {}
+    },
+    {
+        "label": "read_text_file",
+        "importPath": "qa_tutor.ingestion.readers",
+        "description": "qa_tutor.ingestion.readers",
+        "isExtraImport": true,
+        "detail": "qa_tutor.ingestion.readers",
+        "documentation": {}
+    },
+    {
+        "label": "is_complete_pdf",
+        "importPath": "qa_tutor.ingestion.readers",
+        "description": "qa_tutor.ingestion.readers",
+        "isExtraImport": true,
+        "detail": "qa_tutor.ingestion.readers",
+        "documentation": {}
+    },
+    {
+        "label": "read_html",
+        "importPath": "qa_tutor.ingestion.readers",
+        "description": "qa_tutor.ingestion.readers",
+        "isExtraImport": true,
+        "detail": "qa_tutor.ingestion.readers",
+        "documentation": {}
+    },
+    {
+        "label": "urllib.request",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.request",
+        "description": "urllib.request",
+        "detail": "urllib.request",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "OutputParserException",
+        "importPath": "langchain_core.exceptions",
+        "description": "langchain_core.exceptions",
+        "isExtraImport": true,
+        "detail": "langchain_core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "PydanticOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "StrOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "RunnableLambda",
+        "importPath": "langchain_core.runnables",
+        "description": "langchain_core.runnables",
+        "isExtraImport": true,
+        "detail": "langchain_core.runnables",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "MessagesPlaceholder",
+        "importPath": "langchain_core.prompts",
+        "description": "langchain_core.prompts",
+        "isExtraImport": true,
+        "detail": "langchain_core.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "Tutor",
+        "importPath": "qa_tutor.tutor",
+        "description": "qa_tutor.tutor",
+        "isExtraImport": true,
+        "detail": "qa_tutor.tutor",
+        "documentation": {}
+    },
+    {
+        "label": "Tutor",
+        "importPath": "qa_tutor.tutor",
+        "description": "qa_tutor.tutor",
+        "isExtraImport": true,
+        "detail": "qa_tutor.tutor",
+        "documentation": {}
+    },
+    {
+        "label": "Tutor",
+        "importPath": "qa_tutor.tutor",
+        "description": "qa_tutor.tutor",
+        "isExtraImport": true,
+        "detail": "qa_tutor.tutor",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "build_graph",
+        "importPath": "qa_tutor.graph.builder",
+        "description": "qa_tutor.graph.builder",
+        "isExtraImport": true,
+        "detail": "qa_tutor.graph.builder",
+        "documentation": {}
+    },
+    {
+        "label": "build_chat_model",
+        "importPath": "qa_tutor.llm.model",
+        "description": "qa_tutor.llm.model",
+        "isExtraImport": true,
+        "detail": "qa_tutor.llm.model",
+        "documentation": {}
+    },
+    {
+        "label": "KEY_FIELDS",
+        "importPath": "qa_tutor.llm.model",
+        "description": "qa_tutor.llm.model",
+        "isExtraImport": true,
+        "detail": "qa_tutor.llm.model",
+        "documentation": {}
+    },
+    {
+        "label": "has_credentials",
+        "importPath": "qa_tutor.llm.model",
+        "description": "qa_tutor.llm.model",
+        "isExtraImport": true,
+        "detail": "qa_tutor.llm.model",
+        "documentation": {}
+    },
+    {
+        "label": "using_proxy",
+        "importPath": "qa_tutor.llm.model",
+        "description": "qa_tutor.llm.model",
+        "isExtraImport": true,
+        "detail": "qa_tutor.llm.model",
+        "documentation": {}
+    },
+    {
+        "label": "GenericFakeChatModel",
+        "importPath": "langchain_core.language_models.fake_chat_models",
+        "description": "langchain_core.language_models.fake_chat_models",
+        "isExtraImport": true,
+        "detail": "langchain_core.language_models.fake_chat_models",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "AppTest",
+        "importPath": "streamlit.testing.v1",
+        "description": "streamlit.testing.v1",
+        "isExtraImport": true,
+        "detail": "streamlit.testing.v1",
+        "documentation": {}
+    },
+    {
+        "label": "fake_llm",
+        "importPath": "tests.helpers",
+        "description": "tests.helpers",
+        "isExtraImport": true,
+        "detail": "tests.helpers",
+        "documentation": {}
+    },
+    {
+        "label": "fake_llm",
+        "importPath": "tests.helpers",
+        "description": "tests.helpers",
+        "isExtraImport": true,
+        "detail": "tests.helpers",
+        "documentation": {}
+    },
+    {
+        "label": "streamlit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "streamlit",
+        "description": "streamlit",
+        "detail": "streamlit",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "qa_tutor.cli",
+        "description": "qa_tutor.cli",
+        "isExtraImport": true,
+        "detail": "qa_tutor.cli",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": ".venv.Scripts.jp",
+        "description": ".venv.Scripts.jp",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser()\n    parser.add_argument('expression')\n    parser.add_argument('-f', '--filename',\n                        help=('The filename containing the input data.  '\n                              'If a filename is not given then data is '\n                              'read from stdin.'))\n    parser.add_argument('--ast', action='store_true',\n                        help=('Pretty print the AST, do not search the data.'))\n    args = parser.parse_args()",
+        "detail": ".venv.Scripts.jp",
+        "documentation": {}
+    },
+    {
+        "label": "make_analyze_node",
+        "kind": 2,
+        "importPath": "qa_tutor.graph.nodes.analyze",
+        "description": "qa_tutor.graph.nodes.analyze",
+        "peekOfCode": "def make_analyze_node(llm, settings: Settings):\n    def analyze(state: dict) -> dict:\n        path = settings.cache_dir / f\"{state['cache_key']}.analysis.json\"\n        if not settings.refresh_cache:\n            cached = load_cached(path, DocumentAnalysis)\n            if cached:\n                return {\"analysis\": cached}\n        result = run_structured(\n            llm, ANALYSIS_PROMPT, DocumentAnalysis, {\"document\": state[\"document_markdown\"]}\n        )",
+        "detail": "qa_tutor.graph.nodes.analyze",
+        "documentation": {}
+    },
+    {
+        "label": "make_load_document_node",
+        "kind": 2,
+        "importPath": "qa_tutor.graph.nodes.load_document",
+        "description": "qa_tutor.graph.nodes.load_document",
+        "peekOfCode": "def make_load_document_node(settings: Settings):\n    def load_document(state: dict) -> dict:\n        sources = state[\"sources\"]\n        return {\n            \"cache_key\": sources_key(sources),\n            \"document_markdown\": load_sources(sources, settings),\n        }\n    return load_document",
+        "detail": "qa_tutor.graph.nodes.load_document",
+        "documentation": {}
+    },
+    {
+        "label": "make_sme_node",
+        "kind": 2,
+        "importPath": "qa_tutor.graph.nodes.sme",
+        "description": "qa_tutor.graph.nodes.sme",
+        "peekOfCode": "def make_sme_node(llm, settings: Settings):\n    \"\"\"'Trains' the agent in-context: builds an expert brief from the document.\"\"\"\n    def sme_training(state: dict) -> dict:\n        path = settings.cache_dir / f\"{state['cache_key']}.sme.json\"\n        if not settings.refresh_cache:\n            cached = load_cached(path, SMEBrief)\n            if cached:\n                return {\"sme_brief\": cached}\n        result = run_structured(\n            llm,",
+        "detail": "qa_tutor.graph.nodes.sme",
+        "documentation": {}
+    },
+    {
+        "label": "make_tutor_node",
+        "kind": 2,
+        "importPath": "qa_tutor.graph.nodes.tutor",
+        "description": "qa_tutor.graph.nodes.tutor",
+        "peekOfCode": "def make_tutor_node(llm, settings: Settings):\n    ask_chain = text_chain(ASK_PROMPT, llm)\n    walk_chain = text_chain(WALKTHROUGH_PROMPT, llm)\n    def tutor(state: dict) -> dict:\n        analysis = state[\"analysis\"]\n        outline = analysis[\"lesson_outline\"]\n        step = state.get(\"current_step\", 0)\n        history = state.get(\"messages\", [])[-settings.history_window :]\n        context = {\n            \"analysis\": json.dumps(analysis, indent=2),",
+        "detail": "qa_tutor.graph.nodes.tutor",
+        "documentation": {}
+    },
+    {
+        "label": "route_start",
+        "kind": 2,
+        "importPath": "qa_tutor.graph.builder",
+        "description": "qa_tutor.graph.builder",
+        "peekOfCode": "def route_start(state: dict) -> str:\n    \"\"\"Prep once; later turns go straight to the tutor.\"\"\"\n    return \"tutor\" if state.get(\"sme_brief\") else \"load_document\"\ndef route_after_sme(state: dict) -> str:\n    return END if state.get(\"mode\") == \"prep\" else \"tutor\"\ndef build_graph(llm, settings: Settings, checkpointer=None):\n    graph = StateGraph(TutorState)\n    graph.add_node(\"load_document\", make_load_document_node(settings))\n    graph.add_node(\"analyze\", make_analyze_node(llm, settings))\n    graph.add_node(\"sme_training\", make_sme_node(llm, settings))",
+        "detail": "qa_tutor.graph.builder",
+        "documentation": {}
+    },
+    {
+        "label": "route_after_sme",
+        "kind": 2,
+        "importPath": "qa_tutor.graph.builder",
+        "description": "qa_tutor.graph.builder",
+        "peekOfCode": "def route_after_sme(state: dict) -> str:\n    return END if state.get(\"mode\") == \"prep\" else \"tutor\"\ndef build_graph(llm, settings: Settings, checkpointer=None):\n    graph = StateGraph(TutorState)\n    graph.add_node(\"load_document\", make_load_document_node(settings))\n    graph.add_node(\"analyze\", make_analyze_node(llm, settings))\n    graph.add_node(\"sme_training\", make_sme_node(llm, settings))\n    graph.add_node(\"tutor\", make_tutor_node(llm, settings))\n    graph.add_conditional_edges(\n        START, route_start, {\"tutor\": \"tutor\", \"load_document\": \"load_document\"}",
+        "detail": "qa_tutor.graph.builder",
+        "documentation": {}
+    },
+    {
+        "label": "build_graph",
+        "kind": 2,
+        "importPath": "qa_tutor.graph.builder",
+        "description": "qa_tutor.graph.builder",
+        "peekOfCode": "def build_graph(llm, settings: Settings, checkpointer=None):\n    graph = StateGraph(TutorState)\n    graph.add_node(\"load_document\", make_load_document_node(settings))\n    graph.add_node(\"analyze\", make_analyze_node(llm, settings))\n    graph.add_node(\"sme_training\", make_sme_node(llm, settings))\n    graph.add_node(\"tutor\", make_tutor_node(llm, settings))\n    graph.add_conditional_edges(\n        START, route_start, {\"tutor\": \"tutor\", \"load_document\": \"load_document\"}\n    )\n    graph.add_edge(\"load_document\", \"analyze\")",
+        "detail": "qa_tutor.graph.builder",
+        "documentation": {}
+    },
+    {
+        "label": "TutorState",
+        "kind": 6,
+        "importPath": "qa_tutor.graph.state",
+        "description": "qa_tutor.graph.state",
+        "peekOfCode": "class TutorState(TypedDict, total=False):\n    # what you pass in\n    sources: list[str]\n    mode: Mode\n    question: str\n    # what the nodes produce (kept as plain dicts so they are easy to save)\n    cache_key: str\n    document_markdown: str\n    analysis: dict\n    sme_brief: dict",
+        "detail": "qa_tutor.graph.state",
+        "documentation": {}
+    },
+    {
+        "label": "Mode",
+        "kind": 5,
+        "importPath": "qa_tutor.graph.state",
+        "description": "qa_tutor.graph.state",
+        "peekOfCode": "Mode = Literal[\"prep\", \"ask\", \"walkthrough\"]\nclass TutorState(TypedDict, total=False):\n    # what you pass in\n    sources: list[str]\n    mode: Mode\n    question: str\n    # what the nodes produce (kept as plain dicts so they are easy to save)\n    cache_key: str\n    document_markdown: str\n    analysis: dict",
+        "detail": "qa_tutor.graph.state",
+        "documentation": {}
+    },
+    {
+        "label": "clean_source",
+        "kind": 2,
+        "importPath": "qa_tutor.ingestion.loader",
+        "description": "qa_tutor.ingestion.loader",
+        "peekOfCode": "def clean_source(source: str) -> str:\n    return source.strip().strip('\"').strip(\"'\")\ndef _fingerprint(source: str) -> str:\n    \"\"\"Identify a source. For local files, include size + modified time so edits are noticed.\"\"\"\n    path = Path(source)\n    if not is_url(source) and path.exists():\n        stat = path.stat()\n        return f\"{path.resolve()}|{stat.st_size}|{int(stat.st_mtime)}\"\n    return source\ndef sources_key(sources: list[str]) -> str:",
+        "detail": "qa_tutor.ingestion.loader",
+        "documentation": {}
+    },
+    {
+        "label": "sources_key",
+        "kind": 2,
+        "importPath": "qa_tutor.ingestion.loader",
+        "description": "qa_tutor.ingestion.loader",
+        "peekOfCode": "def sources_key(sources: list[str]) -> str:\n    \"\"\"One short id for a set of sources. All cache files for this set start with it.\"\"\"\n    return _hash(\"\\n\".join(sorted(_fingerprint(clean_source(s)) for s in sources)))\ndef save_upload(filename: str, data: bytes, cache_dir: Path) -> str:\n    \"\"\"Save a file uploaded in the UI and return its path. Same content = same file.\"\"\"\n    safe = re.sub(r\"[^A-Za-z0-9._-]\", \"_\", filename)\n    folder = cache_dir / \"uploads\"\n    folder.mkdir(parents=True, exist_ok=True)\n    path = folder / f\"{hashlib.sha256(data).hexdigest()[:8]}_{safe}\"\n    if not path.exists():  # don't rewrite, so the modified time (and the cache) stays stable",
+        "detail": "qa_tutor.ingestion.loader",
+        "documentation": {}
+    },
+    {
+        "label": "save_upload",
+        "kind": 2,
+        "importPath": "qa_tutor.ingestion.loader",
+        "description": "qa_tutor.ingestion.loader",
+        "peekOfCode": "def save_upload(filename: str, data: bytes, cache_dir: Path) -> str:\n    \"\"\"Save a file uploaded in the UI and return its path. Same content = same file.\"\"\"\n    safe = re.sub(r\"[^A-Za-z0-9._-]\", \"_\", filename)\n    folder = cache_dir / \"uploads\"\n    folder.mkdir(parents=True, exist_ok=True)\n    path = folder / f\"{hashlib.sha256(data).hexdigest()[:8]}_{safe}\"\n    if not path.exists():  # don't rewrite, so the modified time (and the cache) stays stable\n        path.write_bytes(data)\n    return str(path)\ndef read_source(source: str, settings: Settings) -> str:",
+        "detail": "qa_tutor.ingestion.loader",
+        "documentation": {}
+    },
+    {
+        "label": "read_source",
+        "kind": 2,
+        "importPath": "qa_tutor.ingestion.loader",
+        "description": "qa_tutor.ingestion.loader",
+        "peekOfCode": "def read_source(source: str, settings: Settings) -> str:\n    \"\"\"Read one source (link or file path) and return plain text.\"\"\"\n    source = clean_source(source)\n    if is_url(source):\n        data = fetch_url(source)\n        if not is_pdf(data):\n            return read_html(data)\n        if not is_complete_pdf(data):\n            raise RuntimeError(INCOMPLETE_PDF.format(name=source))\n        folder = settings.cache_dir / \"downloads\"",
+        "detail": "qa_tutor.ingestion.loader",
+        "documentation": {}
+    },
+    {
+        "label": "display_name",
+        "kind": 2,
+        "importPath": "qa_tutor.ingestion.loader",
+        "description": "qa_tutor.ingestion.loader",
+        "peekOfCode": "def display_name(source: str) -> str:\n    source = clean_source(source)\n    return source if is_url(source) else Path(source).name\ndef load_sources(sources: list[str], settings: Settings) -> str:\n    \"\"\"Read every source, join them into one document, and cache the result.\"\"\"\n    cache_path = settings.cache_dir / f\"{sources_key(sources)}.md\"\n    if cache_path.exists() and not settings.refresh_cache:\n        return cache_path.read_text(encoding=\"utf-8\")\n    parts = [f\"# Source: {display_name(s)}\\n\\n{read_source(s, settings)}\" for s in sources]\n    text = \"\\n\\n---\\n\\n\".join(parts)",
+        "detail": "qa_tutor.ingestion.loader",
+        "documentation": {}
+    },
+    {
+        "label": "load_sources",
+        "kind": 2,
+        "importPath": "qa_tutor.ingestion.loader",
+        "description": "qa_tutor.ingestion.loader",
+        "peekOfCode": "def load_sources(sources: list[str], settings: Settings) -> str:\n    \"\"\"Read every source, join them into one document, and cache the result.\"\"\"\n    cache_path = settings.cache_dir / f\"{sources_key(sources)}.md\"\n    if cache_path.exists() and not settings.refresh_cache:\n        return cache_path.read_text(encoding=\"utf-8\")\n    parts = [f\"# Source: {display_name(s)}\\n\\n{read_source(s, settings)}\" for s in sources]\n    text = \"\\n\\n---\\n\\n\".join(parts)\n    if len(text) > settings.max_document_chars:\n        text = text[: settings.max_document_chars] + \"\\n\\n[Document shortened to fit the model.]\"\n    cache_path.parent.mkdir(parents=True, exist_ok=True)",
+        "detail": "qa_tutor.ingestion.loader",
+        "documentation": {}
+    },
+    {
+        "label": "INCOMPLETE_PDF",
+        "kind": 5,
+        "importPath": "qa_tutor.ingestion.loader",
+        "description": "qa_tutor.ingestion.loader",
+        "peekOfCode": "INCOMPLETE_PDF = (\n    \"{name} is not a complete PDF (the download may have been cut off). \"\n    \"Save the full file from your browser and upload it instead.\"\n)\ndef _hash(text: str) -> str:\n    return hashlib.sha256(text.encode(\"utf-8\")).hexdigest()[:16]\ndef clean_source(source: str) -> str:\n    return source.strip().strip('\"').strip(\"'\")\ndef _fingerprint(source: str) -> str:\n    \"\"\"Identify a source. For local files, include size + modified time so edits are noticed.\"\"\"",
+        "detail": "qa_tutor.ingestion.loader",
+        "documentation": {}
+    },
+    {
+        "label": "is_url",
+        "kind": 2,
+        "importPath": "qa_tutor.ingestion.readers",
+        "description": "qa_tutor.ingestion.readers",
+        "peekOfCode": "def is_url(text: str) -> bool:\n    return text.lower().startswith((\"http://\", \"https://\"))\ndef fetch_url(url: str) -> bytes:\n    \"\"\"Download a link and return its raw bytes.\"\"\"\n    request = urllib.request.Request(url, headers={\"User-Agent\": \"Mozilla/5.0\"})\n    with urllib.request.urlopen(request, timeout=60) as response:\n        data = response.read(MAX_DOWNLOAD_BYTES + 1)\n    if len(data) > MAX_DOWNLOAD_BYTES:\n        raise ValueError(f\"File at {url} is larger than 100 MB.\")\n    return data",
+        "detail": "qa_tutor.ingestion.readers",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_url",
+        "kind": 2,
+        "importPath": "qa_tutor.ingestion.readers",
+        "description": "qa_tutor.ingestion.readers",
+        "peekOfCode": "def fetch_url(url: str) -> bytes:\n    \"\"\"Download a link and return its raw bytes.\"\"\"\n    request = urllib.request.Request(url, headers={\"User-Agent\": \"Mozilla/5.0\"})\n    with urllib.request.urlopen(request, timeout=60) as response:\n        data = response.read(MAX_DOWNLOAD_BYTES + 1)\n    if len(data) > MAX_DOWNLOAD_BYTES:\n        raise ValueError(f\"File at {url} is larger than 100 MB.\")\n    return data\ndef is_pdf(data: bytes) -> bool:\n    return data[:1024].lstrip().startswith(b\"%PDF-\")",
+        "detail": "qa_tutor.ingestion.readers",
+        "documentation": {}
+    },
+    {
+        "label": "is_pdf",
+        "kind": 2,
+        "importPath": "qa_tutor.ingestion.readers",
+        "description": "qa_tutor.ingestion.readers",
+        "peekOfCode": "def is_pdf(data: bytes) -> bool:\n    return data[:1024].lstrip().startswith(b\"%PDF-\")\ndef is_complete_pdf(data: bytes) -> bool:\n    \"\"\"A finished PDF ends with 'startxref' and '%%EOF'. Truncated downloads don't.\"\"\"\n    tail = data[-65536:]\n    return is_pdf(data) and b\"startxref\" in tail and b\"%%EOF\" in tail\ndef read_pdf(path: Path, use_docling: bool = False) -> str:\n    if use_docling:\n        try:\n            from docling.document_converter import DocumentConverter",
+        "detail": "qa_tutor.ingestion.readers",
+        "documentation": {}
+    },
+    {
+        "label": "is_complete_pdf",
+        "kind": 2,
+        "importPath": "qa_tutor.ingestion.readers",
+        "description": "qa_tutor.ingestion.readers",
+        "peekOfCode": "def is_complete_pdf(data: bytes) -> bool:\n    \"\"\"A finished PDF ends with 'startxref' and '%%EOF'. Truncated downloads don't.\"\"\"\n    tail = data[-65536:]\n    return is_pdf(data) and b\"startxref\" in tail and b\"%%EOF\" in tail\ndef read_pdf(path: Path, use_docling: bool = False) -> str:\n    if use_docling:\n        try:\n            from docling.document_converter import DocumentConverter\n            return DocumentConverter().convert(str(path)).document.export_to_markdown()\n        except Exception as error:  # Docling is heavy; fall back to the simple reader",
+        "detail": "qa_tutor.ingestion.readers",
+        "documentation": {}
+    },
+    {
+        "label": "read_pdf",
+        "kind": 2,
+        "importPath": "qa_tutor.ingestion.readers",
+        "description": "qa_tutor.ingestion.readers",
+        "peekOfCode": "def read_pdf(path: Path, use_docling: bool = False) -> str:\n    if use_docling:\n        try:\n            from docling.document_converter import DocumentConverter\n            return DocumentConverter().convert(str(path)).document.export_to_markdown()\n        except Exception as error:  # Docling is heavy; fall back to the simple reader\n            print(f\"Docling failed ({type(error).__name__}); using pypdf instead.\")\n    from pypdf import PdfReader\n    pages = []\n    for number, page in enumerate(PdfReader(str(path), strict=False).pages, start=1):",
+        "detail": "qa_tutor.ingestion.readers",
+        "documentation": {}
+    },
+    {
+        "label": "read_html",
+        "kind": 2,
+        "importPath": "qa_tutor.ingestion.readers",
+        "description": "qa_tutor.ingestion.readers",
+        "peekOfCode": "def read_html(data: bytes) -> str:\n    \"\"\"Pull the readable text out of a web page.\"\"\"\n    from bs4 import BeautifulSoup\n    soup = BeautifulSoup(data, \"html.parser\")\n    for tag in soup([\"script\", \"style\", \"nav\", \"footer\", \"header\", \"aside\", \"form\", \"noscript\"]):\n        tag.decompose()\n    root = soup.find(\"main\") or soup.find(\"article\") or soup.body or soup\n    lines = (line.strip() for line in root.get_text(\"\\n\").splitlines())\n    text = \"\\n\".join(line for line in lines if line)\n    if len(text) < 200:",
+        "detail": "qa_tutor.ingestion.readers",
+        "documentation": {}
+    },
+    {
+        "label": "read_text_file",
+        "kind": 2,
+        "importPath": "qa_tutor.ingestion.readers",
+        "description": "qa_tutor.ingestion.readers",
+        "peekOfCode": "def read_text_file(path: Path) -> str:\n    return path.read_text(encoding=\"utf-8\", errors=\"replace\")",
+        "detail": "qa_tutor.ingestion.readers",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_DOWNLOAD_BYTES",
+        "kind": 5,
+        "importPath": "qa_tutor.ingestion.readers",
+        "description": "qa_tutor.ingestion.readers",
+        "peekOfCode": "MAX_DOWNLOAD_BYTES = 100 * 1024 * 1024\ndef is_url(text: str) -> bool:\n    return text.lower().startswith((\"http://\", \"https://\"))\ndef fetch_url(url: str) -> bytes:\n    \"\"\"Download a link and return its raw bytes.\"\"\"\n    request = urllib.request.Request(url, headers={\"User-Agent\": \"Mozilla/5.0\"})\n    with urllib.request.urlopen(request, timeout=60) as response:\n        data = response.read(MAX_DOWNLOAD_BYTES + 1)\n    if len(data) > MAX_DOWNLOAD_BYTES:\n        raise ValueError(f\"File at {url} is larger than 100 MB.\")",
+        "detail": "qa_tutor.ingestion.readers",
+        "documentation": {}
+    },
+    {
+        "label": "using_proxy",
+        "kind": 2,
+        "importPath": "qa_tutor.llm.model",
+        "description": "qa_tutor.llm.model",
+        "peekOfCode": "def using_proxy() -> bool:\n    _load_env()\n    return bool(os.getenv(\"LITELLM_API_BASE\"))\ndef has_credentials() -> bool:\n    _load_env()\n    if using_proxy():\n        return bool(os.getenv(PROXY_KEY))\n    return bool(os.getenv(HF_KEY) or os.getenv(OPENAI_KEY))\ndef build_router(settings: Settings):\n    \"\"\"Return (router, first_deployment_name) for whichever keys are available.\"\"\"",
+        "detail": "qa_tutor.llm.model",
+        "documentation": {}
+    },
+    {
+        "label": "has_credentials",
+        "kind": 2,
+        "importPath": "qa_tutor.llm.model",
+        "description": "qa_tutor.llm.model",
+        "peekOfCode": "def has_credentials() -> bool:\n    _load_env()\n    if using_proxy():\n        return bool(os.getenv(PROXY_KEY))\n    return bool(os.getenv(HF_KEY) or os.getenv(OPENAI_KEY))\ndef build_router(settings: Settings):\n    \"\"\"Return (router, first_deployment_name) for whichever keys are available.\"\"\"\n    from litellm import Router\n    hf, oai = os.getenv(HF_KEY), os.getenv(OPENAI_KEY)\n    base = {\"timeout\": settings.request_timeout}",
+        "detail": "qa_tutor.llm.model",
+        "documentation": {}
+    },
+    {
+        "label": "build_router",
+        "kind": 2,
+        "importPath": "qa_tutor.llm.model",
+        "description": "qa_tutor.llm.model",
+        "peekOfCode": "def build_router(settings: Settings):\n    \"\"\"Return (router, first_deployment_name) for whichever keys are available.\"\"\"\n    from litellm import Router\n    hf, oai = os.getenv(HF_KEY), os.getenv(OPENAI_KEY)\n    base = {\"timeout\": settings.request_timeout}\n    models = []\n    if hf:\n        models.append({\n            \"model_name\": PRIMARY,\n            \"litellm_params\": {",
+        "detail": "qa_tutor.llm.model",
+        "documentation": {}
+    },
+    {
+        "label": "build_chat_model",
+        "kind": 2,
+        "importPath": "qa_tutor.llm.model",
+        "description": "qa_tutor.llm.model",
+        "peekOfCode": "def build_chat_model(settings: Settings):\n    _load_env()\n    if not has_credentials():\n        raise RuntimeError(\n            f\"Add {HF_KEY} and/or {OPENAI_KEY} to your .env (or LITELLM_API_BASE + {PROXY_KEY} for a proxy).\"\n        )\n    if using_proxy():\n        from langchain_litellm import ChatLiteLLM\n        return ChatLiteLLM(\n            model=f\"litellm_proxy/{os.getenv('QA_TUTOR_PROXY_MODEL', PRIMARY)}\",",
+        "detail": "qa_tutor.llm.model",
+        "documentation": {}
+    },
+    {
+        "label": "HF_KEY",
+        "kind": 5,
+        "importPath": "qa_tutor.llm.model",
+        "description": "qa_tutor.llm.model",
+        "peekOfCode": "HF_KEY = \"HUGGINGFACEHUB_API_TOKEN\"\nOPENAI_KEY = \"OPENAI_API_KEY\"\nPROXY_KEY = \"LITELLM_API_KEY\"\nHF_BASE = \"https://router.huggingface.co/v1\"\nPRIMARY, FALLBACK = \"tutor-primary\", \"tutor-fallback\"\nKEY_FIELDS = {\"Hugging Face token\": HF_KEY, \"OpenAI API key\": OPENAI_KEY}\ndef _load_env() -> None:\n    from dotenv import load_dotenv\n    load_dotenv()\ndef using_proxy() -> bool:",
+        "detail": "qa_tutor.llm.model",
+        "documentation": {}
+    },
+    {
+        "label": "OPENAI_KEY",
+        "kind": 5,
+        "importPath": "qa_tutor.llm.model",
+        "description": "qa_tutor.llm.model",
+        "peekOfCode": "OPENAI_KEY = \"OPENAI_API_KEY\"\nPROXY_KEY = \"LITELLM_API_KEY\"\nHF_BASE = \"https://router.huggingface.co/v1\"\nPRIMARY, FALLBACK = \"tutor-primary\", \"tutor-fallback\"\nKEY_FIELDS = {\"Hugging Face token\": HF_KEY, \"OpenAI API key\": OPENAI_KEY}\ndef _load_env() -> None:\n    from dotenv import load_dotenv\n    load_dotenv()\ndef using_proxy() -> bool:\n    _load_env()",
+        "detail": "qa_tutor.llm.model",
+        "documentation": {}
+    },
+    {
+        "label": "PROXY_KEY",
+        "kind": 5,
+        "importPath": "qa_tutor.llm.model",
+        "description": "qa_tutor.llm.model",
+        "peekOfCode": "PROXY_KEY = \"LITELLM_API_KEY\"\nHF_BASE = \"https://router.huggingface.co/v1\"\nPRIMARY, FALLBACK = \"tutor-primary\", \"tutor-fallback\"\nKEY_FIELDS = {\"Hugging Face token\": HF_KEY, \"OpenAI API key\": OPENAI_KEY}\ndef _load_env() -> None:\n    from dotenv import load_dotenv\n    load_dotenv()\ndef using_proxy() -> bool:\n    _load_env()\n    return bool(os.getenv(\"LITELLM_API_BASE\"))",
+        "detail": "qa_tutor.llm.model",
+        "documentation": {}
+    },
+    {
+        "label": "HF_BASE",
+        "kind": 5,
+        "importPath": "qa_tutor.llm.model",
+        "description": "qa_tutor.llm.model",
+        "peekOfCode": "HF_BASE = \"https://router.huggingface.co/v1\"\nPRIMARY, FALLBACK = \"tutor-primary\", \"tutor-fallback\"\nKEY_FIELDS = {\"Hugging Face token\": HF_KEY, \"OpenAI API key\": OPENAI_KEY}\ndef _load_env() -> None:\n    from dotenv import load_dotenv\n    load_dotenv()\ndef using_proxy() -> bool:\n    _load_env()\n    return bool(os.getenv(\"LITELLM_API_BASE\"))\ndef has_credentials() -> bool:",
+        "detail": "qa_tutor.llm.model",
+        "documentation": {}
+    },
+    {
+        "label": "KEY_FIELDS",
+        "kind": 5,
+        "importPath": "qa_tutor.llm.model",
+        "description": "qa_tutor.llm.model",
+        "peekOfCode": "KEY_FIELDS = {\"Hugging Face token\": HF_KEY, \"OpenAI API key\": OPENAI_KEY}\ndef _load_env() -> None:\n    from dotenv import load_dotenv\n    load_dotenv()\ndef using_proxy() -> bool:\n    _load_env()\n    return bool(os.getenv(\"LITELLM_API_BASE\"))\ndef has_credentials() -> bool:\n    _load_env()\n    if using_proxy():",
+        "detail": "qa_tutor.llm.model",
+        "documentation": {}
+    },
+    {
+        "label": "strip_thinking_tags",
+        "kind": 2,
+        "importPath": "qa_tutor.llm.structured",
+        "description": "qa_tutor.llm.structured",
+        "peekOfCode": "def strip_thinking_tags(text: str) -> str:\n    text = re.sub(r\"<think>.*?</think>\", \"\", text, flags=re.DOTALL)\n    # unclosed tag = output was truncated mid-reasoning\n    if \"<think>\" in text:\n        raise RuntimeError(\n            \"Model output was truncated while still reasoning. \"\n            \"Increase max_new_tokens or use a non-reasoning model.\"\n        )\n    return text.strip()\ndef text_chain(prompt, llm):",
+        "detail": "qa_tutor.llm.structured",
+        "documentation": {}
+    },
+    {
+        "label": "text_chain",
+        "kind": 2,
+        "importPath": "qa_tutor.llm.structured",
+        "description": "qa_tutor.llm.structured",
+        "peekOfCode": "def text_chain(prompt, llm):\n    \"\"\"prompt -> llm -> plain text with reasoning tags removed.\"\"\"\n    return prompt | llm | StrOutputParser() | RunnableLambda(strip_thinking_tags)\ndef run_structured(llm, prompt, schema: type[T], inputs: dict, retries: int = 1) -> T:\n    parser = PydanticOutputParser(pydantic_object=schema)\n    chain = text_chain(prompt, llm)\n    payload = {**inputs, \"format_instructions\": parser.get_format_instructions()}\n    last_error, last_text = None, \"\"\n    for _ in range(retries + 1):\n        last_text = chain.invoke(payload)",
+        "detail": "qa_tutor.llm.structured",
+        "documentation": {}
+    },
+    {
+        "label": "run_structured",
+        "kind": 2,
+        "importPath": "qa_tutor.llm.structured",
+        "description": "qa_tutor.llm.structured",
+        "peekOfCode": "def run_structured(llm, prompt, schema: type[T], inputs: dict, retries: int = 1) -> T:\n    parser = PydanticOutputParser(pydantic_object=schema)\n    chain = text_chain(prompt, llm)\n    payload = {**inputs, \"format_instructions\": parser.get_format_instructions()}\n    last_error, last_text = None, \"\"\n    for _ in range(retries + 1):\n        last_text = chain.invoke(payload)\n        try:\n            return parser.parse(last_text)\n        except OutputParserException as error:",
+        "detail": "qa_tutor.llm.structured",
+        "documentation": {}
+    },
+    {
+        "label": "T",
+        "kind": 5,
+        "importPath": "qa_tutor.llm.structured",
+        "description": "qa_tutor.llm.structured",
+        "peekOfCode": "T = TypeVar(\"T\", bound=BaseModel)\ndef strip_thinking_tags(text: str) -> str:\n    text = re.sub(r\"<think>.*?</think>\", \"\", text, flags=re.DOTALL)\n    # unclosed tag = output was truncated mid-reasoning\n    if \"<think>\" in text:\n        raise RuntimeError(\n            \"Model output was truncated while still reasoning. \"\n            \"Increase max_new_tokens or use a non-reasoning model.\"\n        )\n    return text.strip()",
+        "detail": "qa_tutor.llm.structured",
+        "documentation": {}
+    },
+    {
+        "label": "ANALYSIS_PROMPT",
+        "kind": 5,
+        "importPath": "qa_tutor.prompts.analysis",
+        "description": "qa_tutor.prompts.analysis",
+        "peekOfCode": "ANALYSIS_PROMPT = ChatPromptTemplate.from_messages(\n    [\n        (\n            \"system\",\n            \"You are an instructional designer analysing a document before it is taught.\\n\"\n            \"Use only the document. Do not invent content.\\n\"\n            \"Produce an ordered lesson outline that moves from foundations to advanced ideas.\\n\"\n            \"Do not include reasoning or <think> tags. Return only the requested JSON.\",\n        ),\n        (\"human\", \"<document>\\n{document}\\n</document>\\n\\n{format_instructions}\"),",
+        "detail": "qa_tutor.prompts.analysis",
+        "documentation": {}
+    },
+    {
+        "label": "SME_PROMPT",
+        "kind": 5,
+        "importPath": "qa_tutor.prompts.sme",
+        "description": "qa_tutor.prompts.sme",
+        "peekOfCode": "SME_PROMPT = ChatPromptTemplate.from_messages(\n    [\n        (\n            \"system\",\n            \"You are becoming a subject-matter expert on the document below.\\n\"\n            \"Build a study brief that an expert would carry in their head: a glossary, \"\n            \"key facts, how concepts connect, common learner misconceptions, and \"\n            \"practice questions with answers.\\n\"\n            \"Every item must be supported by the document. Do not invent facts.\\n\"\n            \"Do not include reasoning or <think> tags. Return only the requested JSON.\",",
+        "detail": "qa_tutor.prompts.sme",
+        "documentation": {}
+    },
+    {
+        "label": "_CONTEXT",
+        "kind": 5,
+        "importPath": "qa_tutor.prompts.tutor",
+        "description": "qa_tutor.prompts.tutor",
+        "peekOfCode": "_CONTEXT = (\n    \"<analysis>\\n{analysis}\\n</analysis>\\n\\n\"\n    \"<expert_brief>\\n{sme_brief}\\n</expert_brief>\\n\\n\"\n    \"<document>\\n{document}\\n</document>\"\n)\n_RULES = (\n    \"Ground every statement in the document or the expert brief.\\n\"\n    'If something is not supported, say: \"I don\\'t know based on this document.\"\\n'\n    \"Do not include reasoning or <think> tags.\\n\\n\"\n)",
+        "detail": "qa_tutor.prompts.tutor",
+        "documentation": {}
+    },
+    {
+        "label": "_RULES",
+        "kind": 5,
+        "importPath": "qa_tutor.prompts.tutor",
+        "description": "qa_tutor.prompts.tutor",
+        "peekOfCode": "_RULES = (\n    \"Ground every statement in the document or the expert brief.\\n\"\n    'If something is not supported, say: \"I don\\'t know based on this document.\"\\n'\n    \"Do not include reasoning or <think> tags.\\n\\n\"\n)\nASK_PROMPT = ChatPromptTemplate.from_messages(\n    [\n        (\n            \"system\",\n            \"You are a patient tutor and subject-matter expert. Answer the learner's \"",
+        "detail": "qa_tutor.prompts.tutor",
+        "documentation": {}
+    },
+    {
+        "label": "ASK_PROMPT",
+        "kind": 5,
+        "importPath": "qa_tutor.prompts.tutor",
+        "description": "qa_tutor.prompts.tutor",
+        "peekOfCode": "ASK_PROMPT = ChatPromptTemplate.from_messages(\n    [\n        (\n            \"system\",\n            \"You are a patient tutor and subject-matter expert. Answer the learner's \"\n            \"question clearly and concisely, using plain language and a short example \"\n            \"when it helps. Watch for the misconceptions listed in the brief.\\n\"\n            + _RULES\n            + _CONTEXT,\n        ),",
+        "detail": "qa_tutor.prompts.tutor",
+        "documentation": {}
+    },
+    {
+        "label": "WALKTHROUGH_PROMPT",
+        "kind": 5,
+        "importPath": "qa_tutor.prompts.tutor",
+        "description": "qa_tutor.prompts.tutor",
+        "peekOfCode": "WALKTHROUGH_PROMPT = ChatPromptTemplate.from_messages(\n    [\n        (\n            \"system\",\n            \"You are a guide walking a learner through this material one step at a time.\\n\"\n            \"Teach only the requested step: state its objective, explain the key points \"\n            \"simply, give one example, then end with the step's check question.\\n\"\n            \"Do not jump ahead to later steps.\\n\"\n            + _RULES\n            + _CONTEXT,",
+        "detail": "qa_tutor.prompts.tutor",
+        "documentation": {}
+    },
+    {
+        "label": "load_cached",
+        "kind": 2,
+        "importPath": "qa_tutor.cache",
+        "description": "qa_tutor.cache",
+        "peekOfCode": "def load_cached(path: Path, schema: Type[BaseModel]) -> dict | None:\n    \"\"\"Return validated cached data as a dict, or None if missing/invalid.\"\"\"\n    if not path.exists():\n        return None\n    try:\n        return schema.model_validate_json(path.read_text(encoding=\"utf-8\")).model_dump()\n    except (ValueError, OSError):\n        return None\ndef save_cached(path: Path, data: dict) -> None:\n    path.parent.mkdir(parents=True, exist_ok=True)",
+        "detail": "qa_tutor.cache",
+        "documentation": {}
+    },
+    {
+        "label": "save_cached",
+        "kind": 2,
+        "importPath": "qa_tutor.cache",
+        "description": "qa_tutor.cache",
+        "peekOfCode": "def save_cached(path: Path, data: dict) -> None:\n    path.parent.mkdir(parents=True, exist_ok=True)\n    path.write_text(json.dumps(data, indent=2), encoding=\"utf-8\")",
+        "detail": "qa_tutor.cache",
+        "documentation": {}
+    },
+    {
+        "label": "print_overview",
+        "kind": 2,
+        "importPath": "qa_tutor.cli",
+        "description": "qa_tutor.cli",
+        "peekOfCode": "def print_overview(analysis: dict) -> None:\n    print(f\"\\n{analysis['title']} ({analysis['difficulty']})\")\n    print(analysis[\"summary\"])\n    print(\"\\nLesson outline:\")\n    for number, step in enumerate(analysis[\"lesson_outline\"], start=1):\n        print(f\"  {number}. {step['title']}\")\ndef main() -> None:\n    parser = argparse.ArgumentParser(description=\"Chat with your documents.\")\n    parser.add_argument(\"--source\", \"-s\", nargs=\"+\", required=True, help=\"PDF/TXT/MD paths or web links.\")\n    parser.add_argument(\"--question\", \"-q\", help=\"Ask one question and exit.\")",
+        "detail": "qa_tutor.cli",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qa_tutor.cli",
+        "description": "qa_tutor.cli",
+        "peekOfCode": "def main() -> None:\n    parser = argparse.ArgumentParser(description=\"Chat with your documents.\")\n    parser.add_argument(\"--source\", \"-s\", nargs=\"+\", required=True, help=\"PDF/TXT/MD paths or web links.\")\n    parser.add_argument(\"--question\", \"-q\", help=\"Ask one question and exit.\")\n    parser.add_argument(\"--model\", default=DEFAULT_MODEL)\n    parser.add_argument(\"--refresh-cache\", action=\"store_true\", help=\"Redo everything from scratch.\")\n    args = parser.parse_args()\n    tutor = Tutor(Settings(model=args.model, refresh_cache=args.refresh_cache))\n    print(\"Reading and studying your material...\")\n    analysis = tutor.load(args.source)",
+        "detail": "qa_tutor.cli",
+        "documentation": {}
+    },
+    {
+        "label": "HELP",
+        "kind": 5,
+        "importPath": "qa_tutor.cli",
+        "description": "qa_tutor.cli",
+        "peekOfCode": "HELP = \"Commands: /start (guided walkthrough), /next, /outline, /exit. Anything else is a question.\"\ndef print_overview(analysis: dict) -> None:\n    print(f\"\\n{analysis['title']} ({analysis['difficulty']})\")\n    print(analysis[\"summary\"])\n    print(\"\\nLesson outline:\")\n    for number, step in enumerate(analysis[\"lesson_outline\"], start=1):\n        print(f\"  {number}. {step['title']}\")\ndef main() -> None:\n    parser = argparse.ArgumentParser(description=\"Chat with your documents.\")\n    parser.add_argument(\"--source\", \"-s\", nargs=\"+\", required=True, help=\"PDF/TXT/MD paths or web links.\")",
+        "detail": "qa_tutor.cli",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "qa_tutor.config",
+        "description": "qa_tutor.config",
+        "peekOfCode": "class Settings:\n    model: str = DEFAULT_MODEL                    # primary: Hugging Face repo id\n    fallback_model: str = DEFAULT_FALLBACK_MODEL  # backup: any LiteLLM model string\n    cache_dir: Path = DEFAULT_CACHE_DIR\n    use_docling: bool = False       # True = layout-aware PDF reading (needs requirements-docling.txt)\n    refresh_cache: bool = False     # True = ignore saved results and redo everything\n    max_new_tokens: int = 8192      # longest answer the model may write\n    request_timeout: float = 600    # seconds to wait for the model before giving up\n    max_retries: int = 2            # LiteLLM retries on rate limits / transient errors\n    temperature: float = 0.1        # 0 = very predictable, higher = more creative",
+        "detail": "qa_tutor.config",
+        "documentation": {}
+    },
+    {
+        "label": "PROJECT_ROOT",
+        "kind": 5,
+        "importPath": "qa_tutor.config",
+        "description": "qa_tutor.config",
+        "peekOfCode": "PROJECT_ROOT = Path(__file__).resolve().parent.parent\nDEFAULT_MODEL = os.getenv(\"QA_TUTOR_MODEL\", \"deepseek-ai/DeepSeek-R1-0528\")  # Hugging Face repo id (primary)\nDEFAULT_FALLBACK_MODEL = os.getenv(\"QA_TUTOR_FALLBACK_MODEL\", \"openai/gpt-5.1\")  # used when HF fails (e.g. 402 credits)\nDEFAULT_CACHE_DIR = Path(os.getenv(\"QA_TUTOR_CACHE_DIR\", PROJECT_ROOT / \"cache\"))\n@dataclass(frozen=True)\nclass Settings:\n    model: str = DEFAULT_MODEL                    # primary: Hugging Face repo id\n    fallback_model: str = DEFAULT_FALLBACK_MODEL  # backup: any LiteLLM model string\n    cache_dir: Path = DEFAULT_CACHE_DIR\n    use_docling: bool = False       # True = layout-aware PDF reading (needs requirements-docling.txt)",
+        "detail": "qa_tutor.config",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_MODEL",
+        "kind": 5,
+        "importPath": "qa_tutor.config",
+        "description": "qa_tutor.config",
+        "peekOfCode": "DEFAULT_MODEL = os.getenv(\"QA_TUTOR_MODEL\", \"deepseek-ai/DeepSeek-R1-0528\")  # Hugging Face repo id (primary)\nDEFAULT_FALLBACK_MODEL = os.getenv(\"QA_TUTOR_FALLBACK_MODEL\", \"openai/gpt-5.1\")  # used when HF fails (e.g. 402 credits)\nDEFAULT_CACHE_DIR = Path(os.getenv(\"QA_TUTOR_CACHE_DIR\", PROJECT_ROOT / \"cache\"))\n@dataclass(frozen=True)\nclass Settings:\n    model: str = DEFAULT_MODEL                    # primary: Hugging Face repo id\n    fallback_model: str = DEFAULT_FALLBACK_MODEL  # backup: any LiteLLM model string\n    cache_dir: Path = DEFAULT_CACHE_DIR\n    use_docling: bool = False       # True = layout-aware PDF reading (needs requirements-docling.txt)\n    refresh_cache: bool = False     # True = ignore saved results and redo everything",
+        "detail": "qa_tutor.config",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_FALLBACK_MODEL",
+        "kind": 5,
+        "importPath": "qa_tutor.config",
+        "description": "qa_tutor.config",
+        "peekOfCode": "DEFAULT_FALLBACK_MODEL = os.getenv(\"QA_TUTOR_FALLBACK_MODEL\", \"openai/gpt-5.1\")  # used when HF fails (e.g. 402 credits)\nDEFAULT_CACHE_DIR = Path(os.getenv(\"QA_TUTOR_CACHE_DIR\", PROJECT_ROOT / \"cache\"))\n@dataclass(frozen=True)\nclass Settings:\n    model: str = DEFAULT_MODEL                    # primary: Hugging Face repo id\n    fallback_model: str = DEFAULT_FALLBACK_MODEL  # backup: any LiteLLM model string\n    cache_dir: Path = DEFAULT_CACHE_DIR\n    use_docling: bool = False       # True = layout-aware PDF reading (needs requirements-docling.txt)\n    refresh_cache: bool = False     # True = ignore saved results and redo everything\n    max_new_tokens: int = 8192      # longest answer the model may write",
+        "detail": "qa_tutor.config",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_CACHE_DIR",
+        "kind": 5,
+        "importPath": "qa_tutor.config",
+        "description": "qa_tutor.config",
+        "peekOfCode": "DEFAULT_CACHE_DIR = Path(os.getenv(\"QA_TUTOR_CACHE_DIR\", PROJECT_ROOT / \"cache\"))\n@dataclass(frozen=True)\nclass Settings:\n    model: str = DEFAULT_MODEL                    # primary: Hugging Face repo id\n    fallback_model: str = DEFAULT_FALLBACK_MODEL  # backup: any LiteLLM model string\n    cache_dir: Path = DEFAULT_CACHE_DIR\n    use_docling: bool = False       # True = layout-aware PDF reading (needs requirements-docling.txt)\n    refresh_cache: bool = False     # True = ignore saved results and redo everything\n    max_new_tokens: int = 8192      # longest answer the model may write\n    request_timeout: float = 600    # seconds to wait for the model before giving up",
+        "detail": "qa_tutor.config",
+        "documentation": {}
+    },
+    {
+        "label": "Topic",
+        "kind": 6,
+        "importPath": "qa_tutor.schemas",
+        "description": "qa_tutor.schemas",
+        "peekOfCode": "class Topic(BaseModel):\n    name: str\n    summary: str\nclass LessonStep(BaseModel):\n    title: str\n    objective: str = Field(description=\"What the learner can do after this step.\")\n    key_points: list[str]\n    check_question: str = Field(description=\"One question to test understanding.\")\nclass DocumentAnalysis(BaseModel):\n    title: str",
+        "detail": "qa_tutor.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "LessonStep",
+        "kind": 6,
+        "importPath": "qa_tutor.schemas",
+        "description": "qa_tutor.schemas",
+        "peekOfCode": "class LessonStep(BaseModel):\n    title: str\n    objective: str = Field(description=\"What the learner can do after this step.\")\n    key_points: list[str]\n    check_question: str = Field(description=\"One question to test understanding.\")\nclass DocumentAnalysis(BaseModel):\n    title: str\n    summary: str\n    audience: str\n    difficulty: Literal[\"beginner\", \"intermediate\", \"advanced\"]",
+        "detail": "qa_tutor.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "DocumentAnalysis",
+        "kind": 6,
+        "importPath": "qa_tutor.schemas",
+        "description": "qa_tutor.schemas",
+        "peekOfCode": "class DocumentAnalysis(BaseModel):\n    title: str\n    summary: str\n    audience: str\n    difficulty: Literal[\"beginner\", \"intermediate\", \"advanced\"]\n    topics: list[Topic]\n    prerequisites: list[str]\n    lesson_outline: list[LessonStep] = Field(\n        description=\"Ordered teaching steps, from foundations to advanced ideas.\"\n    )",
+        "detail": "qa_tutor.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "GlossaryTerm",
+        "kind": 6,
+        "importPath": "qa_tutor.schemas",
+        "description": "qa_tutor.schemas",
+        "peekOfCode": "class GlossaryTerm(BaseModel):\n    term: str\n    definition: str\nclass Misconception(BaseModel):\n    misconception: str\n    correction: str\nclass PracticeQA(BaseModel):\n    question: str\n    answer: str\nclass SMEBrief(BaseModel):",
+        "detail": "qa_tutor.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Misconception",
+        "kind": 6,
+        "importPath": "qa_tutor.schemas",
+        "description": "qa_tutor.schemas",
+        "peekOfCode": "class Misconception(BaseModel):\n    misconception: str\n    correction: str\nclass PracticeQA(BaseModel):\n    question: str\n    answer: str\nclass SMEBrief(BaseModel):\n    glossary: list[GlossaryTerm]\n    key_facts: list[str]\n    concept_links: list[str] = Field(",
+        "detail": "qa_tutor.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "PracticeQA",
+        "kind": 6,
+        "importPath": "qa_tutor.schemas",
+        "description": "qa_tutor.schemas",
+        "peekOfCode": "class PracticeQA(BaseModel):\n    question: str\n    answer: str\nclass SMEBrief(BaseModel):\n    glossary: list[GlossaryTerm]\n    key_facts: list[str]\n    concept_links: list[str] = Field(\n        description=\"Sentences explaining how the main concepts relate to each other.\"\n    )\n    misconceptions: list[Misconception]",
+        "detail": "qa_tutor.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "SMEBrief",
+        "kind": 6,
+        "importPath": "qa_tutor.schemas",
+        "description": "qa_tutor.schemas",
+        "peekOfCode": "class SMEBrief(BaseModel):\n    glossary: list[GlossaryTerm]\n    key_facts: list[str]\n    concept_links: list[str] = Field(\n        description=\"Sentences explaining how the main concepts relate to each other.\"\n    )\n    misconceptions: list[Misconception]\n    practice_questions: list[PracticeQA]",
+        "detail": "qa_tutor.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Tutor",
+        "kind": 6,
+        "importPath": "qa_tutor.tutor",
+        "description": "qa_tutor.tutor",
+        "peekOfCode": "class Tutor:\n    def __init__(self, settings: Settings | None = None, llm=None):\n        \"\"\"Pass `llm` to use your own chat model (handy for tests).\"\"\"\n        self.settings = settings or Settings()\n        self.llm = llm or build_chat_model(self.settings)\n        self._app = build_graph(self.llm, self.settings)\n        self._config = {\"configurable\": {\"thread_id\": uuid4().hex}}\n        self.analysis: dict = {}\n        self.step = 0  # how many walkthrough steps have been taught\n    @property",
+        "detail": "qa_tutor.tutor",
+        "documentation": {}
+    },
+    {
+        "label": "fake_llm",
+        "kind": 2,
+        "importPath": "tests.helpers",
+        "description": "tests.helpers",
+        "peekOfCode": "def fake_llm(*answers: str):\n    steps = [\n        LessonStep(title=f\"Step {i}\", objective=\"o\", key_points=[\"k\"], check_question=\"q?\")\n        for i in (1, 2)\n    ]\n    analysis = DocumentAnalysis(\n        title=\"Caching 101\", summary=\"About caching.\", audience=\"Beginners\",\n        difficulty=\"beginner\", topics=[], prerequisites=[], lesson_outline=steps,\n    ).model_dump_json()\n    sme = SMEBrief(",
+        "detail": "tests.helpers",
+        "documentation": {}
+    },
+    {
+        "label": "test_process_then_chat_and_walkthrough",
+        "kind": 2,
+        "importPath": "tests.test_app",
+        "description": "tests.test_app",
+        "peekOfCode": "def test_process_then_chat_and_walkthrough(tmp_path, monkeypatch):\n    monkeypatch.setenv(\"QA_TUTOR_CACHE_DIR\", str(tmp_path / \"cache\"))\n    monkeypatch.setattr(\n        \"qa_tutor.tutor.build_chat_model\",\n        lambda settings: fake_llm(\"Caching keeps copies nearby.\", \"Lesson one.\"),\n    )\n    doc = tmp_path / \"notes.txt\"\n    doc.write_text(\"Caching stores copies of data closer to the user.\", encoding=\"utf-8\")\n    at = AppTest.from_file(str(APP), default_timeout=30).run()\n    assert \"Process documents\" in [b.label for b in at.button]",
+        "detail": "tests.test_app",
+        "documentation": {}
+    },
+    {
+        "label": "APP",
+        "kind": 5,
+        "importPath": "tests.test_app",
+        "description": "tests.test_app",
+        "peekOfCode": "APP = Path(__file__).resolve().parent.parent / \"app.py\"\ndef test_process_then_chat_and_walkthrough(tmp_path, monkeypatch):\n    monkeypatch.setenv(\"QA_TUTOR_CACHE_DIR\", str(tmp_path / \"cache\"))\n    monkeypatch.setattr(\n        \"qa_tutor.tutor.build_chat_model\",\n        lambda settings: fake_llm(\"Caching keeps copies nearby.\", \"Lesson one.\"),\n    )\n    doc = tmp_path / \"notes.txt\"\n    doc.write_text(\"Caching stores copies of data closer to the user.\", encoding=\"utf-8\")\n    at = AppTest.from_file(str(APP), default_timeout=30).run()",
+        "detail": "tests.test_app",
+        "documentation": {}
+    },
+    {
+        "label": "test_html_keeps_article_text_and_drops_scripts",
+        "kind": 2,
+        "importPath": "tests.test_ingestion",
+        "description": "tests.test_ingestion",
+        "peekOfCode": "def test_html_keeps_article_text_and_drops_scripts():\n    body = \"Caching is useful. \" * 20\n    html = f\"<html><body><nav>MENU</nav><script>bad()</script><article>{body}</article></body></html>\"\n    text = read_html(html.encode())\n    assert \"Caching is useful.\" in text and \"MENU\" not in text and \"bad()\" not in text\ndef test_html_with_no_text_gives_helpful_error():\n    with pytest.raises(ValueError, match=\"JavaScript\"):\n        read_html(b\"<html><body><div id='app'></div></body></html>\")\ndef test_truncated_pdf_is_detected():\n    assert not is_complete_pdf(b\"%PDF-1.6 \" + b\"x\" * 5000)",
+        "detail": "tests.test_ingestion",
+        "documentation": {}
+    },
+    {
+        "label": "test_html_with_no_text_gives_helpful_error",
+        "kind": 2,
+        "importPath": "tests.test_ingestion",
+        "description": "tests.test_ingestion",
+        "peekOfCode": "def test_html_with_no_text_gives_helpful_error():\n    with pytest.raises(ValueError, match=\"JavaScript\"):\n        read_html(b\"<html><body><div id='app'></div></body></html>\")\ndef test_truncated_pdf_is_detected():\n    assert not is_complete_pdf(b\"%PDF-1.6 \" + b\"x\" * 5000)\n    assert is_complete_pdf(b\"%PDF-1.6 \" + b\"x\" * 5000 + b\"\\nstartxref\\n0\\n%%EOF\")\ndef test_multiple_sources_are_combined_and_cached(tmp_path):\n    a, b = tmp_path / \"a.txt\", tmp_path / \"b.md\"\n    a.write_text(\"Alpha text\", encoding=\"utf-8\")\n    b.write_text(\"Beta text\", encoding=\"utf-8\")",
+        "detail": "tests.test_ingestion",
+        "documentation": {}
+    },
+    {
+        "label": "test_truncated_pdf_is_detected",
+        "kind": 2,
+        "importPath": "tests.test_ingestion",
+        "description": "tests.test_ingestion",
+        "peekOfCode": "def test_truncated_pdf_is_detected():\n    assert not is_complete_pdf(b\"%PDF-1.6 \" + b\"x\" * 5000)\n    assert is_complete_pdf(b\"%PDF-1.6 \" + b\"x\" * 5000 + b\"\\nstartxref\\n0\\n%%EOF\")\ndef test_multiple_sources_are_combined_and_cached(tmp_path):\n    a, b = tmp_path / \"a.txt\", tmp_path / \"b.md\"\n    a.write_text(\"Alpha text\", encoding=\"utf-8\")\n    b.write_text(\"Beta text\", encoding=\"utf-8\")\n    settings = Settings(cache_dir=tmp_path / \"cache\")\n    text = load_sources([str(a), str(b)], settings)\n    assert \"# Source: a.txt\" in text and \"Beta text\" in text",
+        "detail": "tests.test_ingestion",
+        "documentation": {}
+    },
+    {
+        "label": "test_multiple_sources_are_combined_and_cached",
+        "kind": 2,
+        "importPath": "tests.test_ingestion",
+        "description": "tests.test_ingestion",
+        "peekOfCode": "def test_multiple_sources_are_combined_and_cached(tmp_path):\n    a, b = tmp_path / \"a.txt\", tmp_path / \"b.md\"\n    a.write_text(\"Alpha text\", encoding=\"utf-8\")\n    b.write_text(\"Beta text\", encoding=\"utf-8\")\n    settings = Settings(cache_dir=tmp_path / \"cache\")\n    text = load_sources([str(a), str(b)], settings)\n    assert \"# Source: a.txt\" in text and \"Beta text\" in text\n    assert (settings.cache_dir / f\"{sources_key([str(a), str(b)])}.md\").exists()\ndef test_long_documents_are_shortened(tmp_path):\n    a = tmp_path / \"a.txt\"",
+        "detail": "tests.test_ingestion",
+        "documentation": {}
+    },
+    {
+        "label": "test_long_documents_are_shortened",
+        "kind": 2,
+        "importPath": "tests.test_ingestion",
+        "description": "tests.test_ingestion",
+        "peekOfCode": "def test_long_documents_are_shortened(tmp_path):\n    a = tmp_path / \"a.txt\"\n    a.write_text(\"x\" * 500, encoding=\"utf-8\")\n    text = load_sources([str(a)], Settings(cache_dir=tmp_path / \"c\", max_document_chars=100))\n    assert \"shortened\" in text\ndef test_missing_file_message(tmp_path):\n    with pytest.raises(FileNotFoundError, match=\"not found\"):\n        load_sources([str(tmp_path / \"nope.pdf\")], Settings(cache_dir=tmp_path))\ndef test_save_upload_is_stable(tmp_path):\n    first = save_upload(\"My Notes.pdf\", b\"data\", tmp_path)",
+        "detail": "tests.test_ingestion",
+        "documentation": {}
+    },
+    {
+        "label": "test_missing_file_message",
+        "kind": 2,
+        "importPath": "tests.test_ingestion",
+        "description": "tests.test_ingestion",
+        "peekOfCode": "def test_missing_file_message(tmp_path):\n    with pytest.raises(FileNotFoundError, match=\"not found\"):\n        load_sources([str(tmp_path / \"nope.pdf\")], Settings(cache_dir=tmp_path))\ndef test_save_upload_is_stable(tmp_path):\n    first = save_upload(\"My Notes.pdf\", b\"data\", tmp_path)\n    assert first == save_upload(\"My Notes.pdf\", b\"data\", tmp_path)\n    assert \" \" not in first",
+        "detail": "tests.test_ingestion",
+        "documentation": {}
+    },
+    {
+        "label": "test_save_upload_is_stable",
+        "kind": 2,
+        "importPath": "tests.test_ingestion",
+        "description": "tests.test_ingestion",
+        "peekOfCode": "def test_save_upload_is_stable(tmp_path):\n    first = save_upload(\"My Notes.pdf\", b\"data\", tmp_path)\n    assert first == save_upload(\"My Notes.pdf\", b\"data\", tmp_path)\n    assert \" \" not in first",
+        "detail": "tests.test_ingestion",
+        "documentation": {}
+    },
+    {
+        "label": "test_load_ask_and_walkthrough",
+        "kind": 2,
+        "importPath": "tests.test_tutor",
+        "description": "tests.test_tutor",
+        "peekOfCode": "def test_load_ask_and_walkthrough(tmp_path):\n    doc = tmp_path / \"notes.txt\"\n    doc.write_text(\"Caching stores copies of data closer to the user.\", encoding=\"utf-8\")\n    settings = Settings(cache_dir=tmp_path / \"cache\")\n    tutor = Tutor(settings, llm=fake_llm(\"Caching keeps copies nearby.\", \"Lesson 1.\", \"Lesson 2.\"))\n    analysis = tutor.load([str(doc)])\n    assert analysis[\"title\"] == \"Caching 101\"\n    assert tutor.total_steps == 2\n    assert tutor.ask(\"What is caching?\") == \"Caching keeps copies nearby.\"\n    assert tutor.start_walkthrough() == \"Lesson 1.\" and tutor.step == 1",
+        "detail": "tests.test_tutor",
+        "documentation": {}
+    },
+    {
+        "label": "add_message",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def add_message(role: str, content: str) -> None:\n    st.session_state.chat.append({\"role\": role, \"content\": content})\ndef process_sources(files, links_text: str) -> None:\n    \"\"\"Save uploads, read everything, and build a new Tutor.\"\"\"\n    sources = [save_upload(f.name, f.getvalue(), settings.cache_dir) for f in files]\n    sources += [clean_source(line) for line in links_text.splitlines() if line.strip()]\n    if not sources:\n        st.sidebar.warning(\"Upload a file or paste a link first.\")\n        return\n    try:",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "process_sources",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def process_sources(files, links_text: str) -> None:\n    \"\"\"Save uploads, read everything, and build a new Tutor.\"\"\"\n    sources = [save_upload(f.name, f.getvalue(), settings.cache_dir) for f in files]\n    sources += [clean_source(line) for line in links_text.splitlines() if line.strip()]\n    if not sources:\n        st.sidebar.warning(\"Upload a file or paste a link first.\")\n        return\n    try:\n        with st.spinner(\"Reading and studying your material. This can take a minute...\"):\n            tutor = Tutor(settings)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "settings = Settings()\nst.set_page_config(page_title=\"Document Tutor\", page_icon=\"🎓\")\nst.title(\"🎓 Document Tutor\")\n# st.session_state keeps values between reruns (Streamlit reruns this file on every click).\nst.session_state.setdefault(\"tutor\", None)\nst.session_state.setdefault(\"chat\", [])\nst.session_state.setdefault(\"source_names\", [])\ndef add_message(role: str, content: str) -> None:\n    st.session_state.chat.append({\"role\": role, \"content\": content})\ndef process_sources(files, links_text: str) -> None:",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "tutor",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "tutor = st.session_state.tutor\nif tutor is None:\n    st.info(\"👈 Upload documents or paste links in the sidebar, then click **Process documents**.\")\nelse:\n    analysis = tutor.analysis\n    with st.expander(f\"📘 {analysis['title']} ({analysis['difficulty']})\", expanded=not st.session_state.chat):\n        st.write(analysis[\"summary\"])\n        st.markdown(\"**Lesson outline**\")\n        for number, step in enumerate(analysis[\"lesson_outline\"], start=1):\n            st.markdown(f\"{number}. {step['title']}\")",
+        "detail": "app",
+        "documentation": {}
+    }
+]

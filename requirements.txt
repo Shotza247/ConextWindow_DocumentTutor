@@ -1,0 +1,9 @@
+langchain-core
+langchain-litellm
+litellm
+langgraph
+pydantic>=2
+python-dotenv
+pypdf
+beautifulsoup4
+streamlit

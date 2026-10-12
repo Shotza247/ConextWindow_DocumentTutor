@@ -1,0 +1,3 @@
+# Optional: layout-aware PDF reading. Then set use_docling=True in config.py.
+-r requirements.txt
+docling

@@ -1,0 +1,20 @@
+# LiteLLM proxy config (for Render). Start with:  litellm --config litellm_config.yaml --port $PORT
+model_list:
+  - model_name: tutor-primary
+    litellm_params:
+      model: "openai/Qwen/Qwen2.5-72B-Instruct"   # Hugging Face via its OpenAI-compatible router
+      api_base: https://router.huggingface.co/v1
+      api_key: os.environ/HUGGINGFACEHUB_API_TOKEN
+      timeout: 600
+  - model_name: tutor-fallback
+    litellm_params:
+      model: openai/gpt-5.1
+      api_key: os.environ/OPENAI_API_KEY
+      timeout: 600
+
+router_settings:
+  num_retries: 2
+  fallbacks: [{"tutor-primary": ["tutor-fallback"]}]
+
+general_settings:
+  master_key: os.environ/LITELLM_MASTER_KEY   # this is what the app sends as LITELLM_API_KEY
